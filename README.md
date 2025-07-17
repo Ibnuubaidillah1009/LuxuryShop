@@ -312,20 +312,6 @@ Dibuat dengan ❤️ untuk proyek E-Commerce premium.
 
 **⭐ Jika project ini membantu, berikan star di repository ini!**
 
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Homepage](https://via.placeholder.com/800x600/f59e0b/ffffff?text=Homepage+Desktop)
-
-### Mobile View
-![Mobile Homepage](https://via.placeholder.com/400x600/f59e0b/ffffff?text=Homepage+Mobile)
-
-### Product Page
-![Product Grid](https://via.placeholder.com/800x600/fbbf24/ffffff?text=Product+Grid)
-
-### Checkout Process
-![Checkout Flow](https://via.placeholder.com/800x600/fcd34d/ffffff?text=Checkout+Process)
-
 ---
 
-*Last updated: December 2024*
+*Last updated: December 2025*
