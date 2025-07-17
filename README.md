@@ -303,11 +303,6 @@ Proyek ini menggunakan lisensi MIT. Silakan gunakan untuk keperluan komersial ma
 
 Dibuat dengan ❤️ untuk proyek E-Commerce premium.
 
-### Contact Developer
-- 📧 Email: developer@luxuryshop.com
-- 🐙 GitHub: [GitHub Profile]
-- 💼 LinkedIn: [LinkedIn Profile]
-
 ---
 
 **⭐ Jika project ini membantu, berikan star di repository ini!**
