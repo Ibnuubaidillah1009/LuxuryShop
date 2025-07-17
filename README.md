@@ -2,7 +2,7 @@
 
 ![ParTea Logo](https://img.shields.io/badge/LuxuryShop-Premium%20E--Commerce-gold?style=for-the-badge&logo=shopping-bag)
 
-LuxuryShop adalah website E-Commerce premium yang dibangun menggunakan **PHP Native** dengan desain mewah dan responsif. Website ini menggunakan gradient kuning-putih sebagai tema utama dan menyediakan pengalaman berbelanja online yang elegan.
+ParTea adalah website E-Commerce premium yang dibangun menggunakan **PHP Native** dengan desain mewah dan responsif. Website ini menggunakan gradient kuning-putih sebagai tema utama dan menyediakan pengalaman berbelanja online yang elegan.
 
 ## ✨ Fitur Utama
 
